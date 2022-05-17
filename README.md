@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravsrivastav
+- 👋 Hi, I’m Gaurav Srivastava
 - 👀 I’m interested in DevOps Solutions and Entrepreneurship
 - 🌱 I’m currently learning Python and Blockchain Technology
 - 💞️ I’m looking to collaborate on DevOps Solutions
